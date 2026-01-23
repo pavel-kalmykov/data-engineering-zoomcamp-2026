@@ -1,0 +1,41 @@
+# Data files
+*.csv
+*.parquet
+*.gz
+01-docker-terraform/data/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+01-docker-terraform/terrademo/keys/*
+
+# Keep directory structure
+!**/.gitkeep
