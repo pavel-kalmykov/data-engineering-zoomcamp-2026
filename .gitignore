@@ -38,4 +38,4 @@ Thumbs.db
 01-docker-terraform/terrademo/keys/*
 
 # Keep directory structure
-!**/.gitkeep
+!**/.gitkeep.playwright-mcp/
