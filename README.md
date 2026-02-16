@@ -7,7 +7,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [Module 1: Docker & Terraform](./01-docker-terraform/) - Containerization and Infrastructure as Code
 - [Module 2: Workflow Orchestration](./02-workflow-orchestration/) - Kestra for data pipeline orchestration
 - [Module 3: Data Warehouse](./03-data-warehouse/) - BigQuery and Google Cloud Storage
-- Module 4: Analytics Engineering (coming soon)
+- [Module 4: Analytics Engineering](./04-analytics-engineering/) - dbt for data transformation and modeling
 - Module 5: Batch Processing (coming soon)
 - Module 6: Streaming (coming soon)
 
@@ -16,7 +16,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [x] Module 1: Docker & Terraform
 - [x] Module 2: Workflow Orchestration
 - [x] Module 3: Data Warehouse
-- [ ] Module 4: Analytics Engineering
+- [x] Module 4: Analytics Engineering
 - [ ] Module 5: Batch Processing
 - [ ] Module 6: Streaming
 
@@ -27,5 +27,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - Terraform
 - Google Cloud Platform (BigQuery, Cloud Storage)
 - Kestra
+- dbt (data build tool)
+- DuckDB
 - Python
 - SQL

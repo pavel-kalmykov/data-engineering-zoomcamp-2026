@@ -1,0 +1,19 @@
+# dbt artifacts (compiled, packages, logs)
+target/
+dbt_packages/
+logs/
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+.duckdb_temp/
+
+# Data directory (downloaded parquet files)
+data/
+
+# Python artifacts (covered by root .gitignore but listed here for clarity)
+__pycache__/
+*.pyc
+
+# IDE files
+.user.yml

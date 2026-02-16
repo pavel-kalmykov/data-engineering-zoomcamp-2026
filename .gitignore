@@ -37,5 +37,15 @@ Thumbs.db
 .terraform.lock.hcl
 01-docker-terraform/terrademo/keys/*
 
+# dbt
+*.duckdb
+*.duckdb.wal
+dbt_packages/
+logs/
+target/
+04-analytics-engineering/taxi_rides_ny/data/
+
 # Keep directory structure
-!**/.gitkeep.playwright-mcp/
+!**/.gitkeep
+
+.playwright-mcp/
