@@ -8,7 +8,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [Module 2: Workflow Orchestration](./02-workflow-orchestration/) - Kestra for data pipeline orchestration
 - [Module 3: Data Warehouse](./03-data-warehouse/) - BigQuery and Google Cloud Storage
 - [Module 4: Analytics Engineering](./04-analytics-engineering/) - dbt for data transformation and modeling
-- Module 5: Batch Processing (coming soon)
+- [Module 5: Data Platforms](./05-data-platforms/) - Bruin for end-to-end ELT pipelines
 - Module 6: Streaming (coming soon)
 
 ## Progress
@@ -17,7 +17,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [x] Module 2: Workflow Orchestration
 - [x] Module 3: Data Warehouse
 - [x] Module 4: Analytics Engineering
-- [ ] Module 5: Batch Processing
+- [x] Module 5: Data Platforms
 - [ ] Module 6: Streaming
 
 ## Technologies
@@ -29,5 +29,6 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - Kestra
 - dbt (data build tool)
 - DuckDB
+- Bruin
 - Python
 - SQL

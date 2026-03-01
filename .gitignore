@@ -39,6 +39,9 @@ Thumbs.db
 
 # dbt
 *.duckdb
+
+# Bruin
+05-data-platforms/taxi-pipeline/duckdb.db
 *.duckdb.wal
 dbt_packages/
 logs/
@@ -47,5 +50,12 @@ target/
 
 # Keep directory structure
 !**/.gitkeep
+# Keep seed data
+!05-data-platforms/taxi-pipeline/pipeline/assets/ingestion/payment_lookup.csv
 
 .playwright-mcp/
+
+.bruin.yml
+logs/runs
+logs/*.log
+logs/queries
