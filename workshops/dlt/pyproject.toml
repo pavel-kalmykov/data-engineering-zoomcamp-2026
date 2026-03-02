@@ -1,0 +1,8 @@
+[project]
+name = "zoomcamp-workshop-dlt"
+version = "0.1.0"
+description = "dlt workshop - Data Engineering Zoomcamp 2026"
+requires-python = ">=3.10"
+dependencies = [
+    "dlt[duckdb]>=1.22.0",
+]

@@ -9,6 +9,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [Module 3: Data Warehouse](./03-data-warehouse/) - BigQuery and Google Cloud Storage
 - [Module 4: Analytics Engineering](./04-analytics-engineering/) - dbt for data transformation and modeling
 - [Module 5: Data Platforms](./05-data-platforms/) - Bruin for end-to-end ELT pipelines
+- [Workshop: dlt](./workshops/dlt/) - Data ingestion with dlt and DuckDB
 - Module 6: Streaming (coming soon)
 
 ## Progress
@@ -18,6 +19,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [x] Module 3: Data Warehouse
 - [x] Module 4: Analytics Engineering
 - [x] Module 5: Data Platforms
+- [x] Workshop: dlt
 - [ ] Module 6: Streaming
 
 ## Technologies
@@ -30,5 +32,6 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - dbt (data build tool)
 - DuckDB
 - Bruin
+- dlt
 - Python
 - SQL

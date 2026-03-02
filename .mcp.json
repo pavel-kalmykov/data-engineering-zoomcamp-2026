@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "bruin": {
+      "type": "stdio",
+      "command": "bruin",
+      "args": [
+        "mcp"
+      ],
+      "env": {}
+    },
+    "dlt": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "dlt[duckdb]",
+        "--with",
+        "dlt-mcp[search]",
+        "python",
+        "-m",
+        "dlt_mcp"
+      ],
+      "env": {}
+    }
+  }
+}
