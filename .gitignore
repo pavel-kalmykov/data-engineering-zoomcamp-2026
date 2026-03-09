@@ -54,6 +54,8 @@ target/
 !05-data-platforms/taxi-pipeline/pipeline/assets/ingestion/payment_lookup.csv
 
 .playwright-mcp/
+output/
+*.crc
 
 .bruin.yml
 logs/runs
