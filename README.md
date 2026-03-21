@@ -11,7 +11,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [Module 5: Data Platforms](./05-data-platforms/) - Bruin for end-to-end ELT pipelines
 - [Workshop: dlt](./workshops/dlt/) - Data ingestion with dlt and DuckDB
 - [Module 6: Batch Processing](./06-batch/) - Spark and PySpark for large-scale data processing
-- Module 7: Streaming (coming soon)
+- [Module 7: Streaming](./07-streaming/) - Redpanda, Kafka producers/consumers and PyFlink stream processing
 
 ## Progress
 
@@ -22,7 +22,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - [x] Module 5: Data Platforms
 - [x] Workshop: dlt
 - [x] Module 6: Batch Processing
-- [ ] Module 7: Streaming
+- [x] Module 7: Streaming
 
 ## Technologies
 
@@ -36,5 +36,7 @@ This repository contains homework solutions and projects for the [Data Engineeri
 - Bruin
 - dlt
 - Apache Spark / PySpark
+- Redpanda / Apache Kafka
+- Apache Flink / PyFlink
 - Python
 - SQL
